@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659354126 source:f:\algoritimo\listas bruno\lista3_algoritimo\lista3_ex20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
